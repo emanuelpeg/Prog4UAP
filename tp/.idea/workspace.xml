@@ -1,505 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/test/scala/recfun/NumberToChineseWordsSuite.scala" line="8" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a919006-4d8a-43e0-a2d9-a64646803177" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/classes/" />
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="56b82242-d8f0-4134-893b-c8ca9e1d855e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/.idea/modules/recfun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/.idea/modules/recfun.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/src/main/scala/recfun/Recursividad.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/src/main/scala/recfun/Recursividad.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase1/recfun/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../clase1/recfun/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/src/main/scala/utils/ArbolBinario.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/src/main/scala/utils/ArbolBinario.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/default/classcase$sources/1.0.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/default/classcase$sources/1.0.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/default/classcase$sources/1.0.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/default/classcase$sources/1.0.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/scala-2.11/resolution-cache/reports/default-classcase$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase4/classCase/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../clase4/classCase/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase5/lazyEvaluation/src/main/scala/utils/MyStream.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../clase5/lazyEvaluation/src/main/scala/utils/MyStream.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clase6/folds/src/main/scala/utils/ListIntUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../clase6/folds/src/main/scala/utils/ListIntUtils.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/tp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/tp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/recfun/NumberToChineseWords.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/recfun/NumberToChineseWords.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/NumberToChineseWords.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="93" lean-forward="true" selection-start-line="3" selection-start-column="93" selection-end-line="3" selection-end-column="93" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/NumberToChineseWordsSuite.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10350">
-              <caret line="693" column="31" selection-start-line="693" selection-start-column="31" selection-end-line="693" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Scala Worksheet" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>fibonacci</find>
-    </findStrings>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/scala/recfun/Main.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/recfun/FibonacciSuite.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/recfun/ws.sc" />
-        <option value="$PROJECT_DIR$/src/test/scala/recfun/FactorialSuite.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/recfun/CuadraroSuite.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/recfun/PotenciaSuite.scala" />
-        <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/src/main/scala/recfun/Recursividad.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/recfun/BalanceSuite.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/recfun/NumberToChineseWordsSuite.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/recfun/NumberToChineseWords.scala" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="94" />
-    <option name="width" value="1356" />
-    <option name="height" value="550" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="progfun-recfun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun-recfun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun-recfun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun-recfun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun-recfun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="recfun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun-recfun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun-recfun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun-recfun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="recfun" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1bEyxNDluGOGvTDbYZMzZcjCox8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="recfun" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.NumberToChineseWordsSuite">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="recfun.Recursividad" />
-      <module name="tp1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recfun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberToChineseWords" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="utils.NumberToChineseWords" />
-      <module name="tp1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberToChineseWordsSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tp1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recfun.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="recfun" />
-      <option name="MAIN_CLASS_NAME" value="recfun.NumberToChineseWordsSuite" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CuadraroSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <module name="tp1" />
-      <setting name="path" value="recfun.CuadraroSuite" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="showProgressMessages" value="true" />
-      <setting name="useSbt" value="false" />
-      <setting name="useUiWithSbt" value="false" />
-      <setting name="jrePath" value="" />
-      <envs />
-      <setting name="testKind" value="Class" />
-      <setting name="path" value="recfun.CuadraroSuite" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PotenciaSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <module name="tp1" />
-      <setting name="path" value="recfun.PotenciaSuite" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="showProgressMessages" value="true" />
-      <setting name="useSbt" value="false" />
-      <setting name="useUiWithSbt" value="false" />
-      <setting name="jrePath" value="" />
-      <envs />
-      <setting name="testKind" value="Class" />
-      <setting name="path" value="recfun.PotenciaSuite" />
+  <component name="RunManager">
+    <configuration name="NumberToChineseWordsSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="tp" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="recfun.NumberToChineseWordsSuite" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NumberToChineseWordsSuite" />
-        <item itemvalue="Application.NumberToChineseWords" />
-        <item itemvalue="ScalaTest.CuadraroSuite" />
-        <item itemvalue="ScalaTest.PotenciaSuite" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="ScalaTest.NumberToChineseWordsSuite" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="tp" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="tp [file:/home/emanuel/Facultad/progfun/2019/git/Prog4UAP/tp/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="tp-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3176423323276" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1780535089" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../clase1/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../clase2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../clase3/inmutable" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../clase4/classCase" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../git_prueba/Prog4UAP/clase1/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../git_prueba/Prog4UAP/clase2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../git_prueba/Prog4UAP/tp" value="PREVIEW" />
+      </map>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a919006-4d8a-43e0-a2d9-a64646803177" name="Default Changelist" comment="" />
-      <created>1565572533143</created>
+      <changelist id="56b82242-d8f0-4134-893b-c8ca9e1d855e" name="Default Changelist" comment="" />
+      <created>1588211792135</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565572533143</updated>
+      <updated>1588211792135</updated>
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="NumberToChineseWordsSuite - 2019.08.19 at 22h 28m 01s.xml">
-      <configuration name="NumberToChineseWordsSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberToChineseWordsSuite - 2019.08.19 at 22h 36m 56s.xml">
-      <configuration name="NumberToChineseWordsSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberToChineseWordsSuite - 2019.08.19 at 22h 39m 32s.xml">
-      <configuration name="NumberToChineseWordsSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberToChineseWordsSuite - 2019.08.19 at 22h 48m 34s.xml">
-      <configuration name="NumberToChineseWordsSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberToChineseWordsSuite - 2019.08.19 at 22h 51m 56s.xml">
-      <configuration name="NumberToChineseWordsSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberToChineseWordsSuite - 2019.08.19 at 22h 53m 02s.xml">
-      <configuration name="NumberToChineseWordsSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberToChineseWordsSuite - 2019.08.19 at 22h 54m 04s.xml">
-      <configuration name="NumberToChineseWordsSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberToChineseWordsSuite - 2019.08.19 at 22h 57m 42s.xml">
-      <configuration name="NumberToChineseWordsSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberToChineseWordsSuite - 2019.08.19 at 22h 58m 58s.xml">
-      <configuration name="NumberToChineseWordsSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberToChineseWordsSuite - 2019.08.19 at 23h 03m 14s.xml">
-      <configuration name="NumberToChineseWordsSuite" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-1" y="-1" width="1368" height="716" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3780303" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5768567" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298791" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="SBT Console" order="8" weight="0.3298791" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3298791" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.4283247" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3780303" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41105354" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298791" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="SBT Console" order="8" weight="0.3298791" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3298791" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.4283247" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
-  </component>
-  <component name="WorksheetDefaultProjectSettings">
-    <option name="compilerProfileName" value="Default" />
-    <option name="moduleName" value="progfun-recfun" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/lazy.sc" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/test.sc" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/ws.sc" />
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.2.jar!/scala/Predef.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/CountChangeSuite.scala" />
-    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/FibonacciSuite.scala" />
-    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/PotenciaSuite.scala" />
-    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/CuadraroSuite.scala" />
-    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/FactorialSuite.scala" />
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/NumberToChineseWordsSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10350">
-          <caret line="693" column="31" selection-start-line="693" selection-start-column="31" selection-end-line="693" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/NumberToChineseWords.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="93" lean-forward="true" selection-start-line="3" selection-start-column="93" selection-end-line="3" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8.0_181</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>tp1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-sdk-2.11.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="283" y="28" key="#Project_Structure" timestamp="1588212027869">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="283" y="28" key="#Project_Structure/0.0.1366.732@0.0.1366.732" timestamp="1588212027869" />
+    <state x="405" y="284" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1592801056529">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="405" y="284" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.732@0.0.1366.732" timestamp="1592801056529" />
+    <state x="532" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1592801004090">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="532" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.732@0.0.1366.732" timestamp="1592801004090" />
+    <state width="1324" height="173" key="GridCell.Tab.0.bottom" timestamp="1593395338551">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1593395338551" />
+    <state width="1324" height="173" key="GridCell.Tab.0.center" timestamp="1593395338550">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1593395338550" />
+    <state width="1324" height="173" key="GridCell.Tab.0.left" timestamp="1593395338550">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1593395338550" />
+    <state width="1324" height="173" key="GridCell.Tab.0.right" timestamp="1593395338550">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1593395338550" />
+    <state x="349" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1595221531913">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="349" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1595221531913" />
   </component>
 </project>

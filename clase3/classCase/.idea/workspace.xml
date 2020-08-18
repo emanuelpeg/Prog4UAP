@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed2b2405-e5f1-4533-a394-fdeb91ea062e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/modules/recfun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/modules/recfun.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/src/main/scala/recfun/Recursividad.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/src/main/scala/recfun/Recursividad.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/utils/ArbolBinario.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/utils/ArbolBinario.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/classcase$sources/1.0.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/classcase$sources/1.0.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/classcase$sources/1.0.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/classcase$sources/1.0.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-classcase$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/src/main/scala/utils/MyStream.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase5/lazyEvaluation/src/main/scala/utils/MyStream.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tp/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bdwowCYD6nJRM8fXi8GWMJ8Myh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ArbolBinarioSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="classcase" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="utils.ArbolBinarioSuite" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.ArbolBinarioSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="classcase" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="classcase [file:/home/emanuel/Facultad/progfun/2019/git/Prog4UAP/clase4/classCase/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="classcase-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3170148339696" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="963734495" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../clase1/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../clase2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../clase3/inmutable" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../tp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../git_prueba/Prog4UAP/clase1/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../git_prueba/Prog4UAP/clase2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../git_prueba/Prog4UAP/tp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed2b2405-e5f1-4533-a394-fdeb91ea062e" name="Default Changelist" comment="" />
+      <created>1588975456561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588975456561</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1324" height="173" key="GridCell.Tab.0.bottom" timestamp="1590185839778">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1590185839778" />
+    <state width="1324" height="173" key="GridCell.Tab.0.center" timestamp="1590185839778">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1590185839778" />
+    <state width="1324" height="173" key="GridCell.Tab.0.left" timestamp="1590185839777">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1590185839777" />
+    <state width="1324" height="173" key="GridCell.Tab.0.right" timestamp="1590185839778">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1590185839778" />
+    <state x="349" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1589581299751">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="349" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1589581299751" />
+  </component>
+</project>
