@@ -1,875 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9cdebc17-34ca-4f9e-9d75-8685f7402730" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__com_google_code_gson_gson_2_2_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__com_netflix_rxjava_rxjava_core_0_15_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__com_netflix_rxjava_rxjava_scala_0_15_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__com_ning_async_http_client_1_7_16_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__com_squareup_retrofit_retrofit_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_11_2_5_30_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__com_typesafe_akka_akka_testkit_2_11_2_5_30_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__com_typesafe_config_1_3_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__io_netty_netty_3_6_3_Final_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__net_databinder_dispatch_dispatch_core_2_11_0_11_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_7_0_M2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_7_0_M2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_json4s_json4s_native_2_11_3_7_0_M2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_json4s_json4s_scalap_2_11_3_7_0_M2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_scala_lang_modules_scala_async_2_11_0_9_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_scala_lang_scala_actors_2_11_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_scala_lang_scala_swing_2_11_0_M7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_scala_tools_testing_test_interface_0_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_scalacheck_scalacheck_2_11_1_10_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/libraries/sbt__org_slf4j_slf4j_simple_1_7_5_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/modules/recfun-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/modules/recfun.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/akka_actor_2_10_2_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/akka_testkit_2_10_2_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/async_http_client_1_7_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/config_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/dispatch_core_2_10_0_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/gson_2_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/hamcrest_core_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/json4s_ast_2_10_3_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/json4s_core_2_10_3_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/json4s_native_2_10_3_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/junit_4_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/mockito_all_1_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/netty_3_6_3_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/paranamer_2_5_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/progfun_recfun_2_10_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/recfun.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/retrofit_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/rxjava_core_0_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/rxjava_scala_0_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/scala_actors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/scala_async_2_10_0_9_0_M2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/scala_reflect.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/scala_swing_2_10_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/scalacheck_2_10_1_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/scalap_2_10_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/scalatest_2_10_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/slf4j_api_1_7_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/slf4j_simple_1_7_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/libraries/test_interface_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/modules/recfun_2209-build.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/modules/recfun_2209.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/modules/recfun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/modules/recfun.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.scala-ide.sdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.ui.workbench/workbench.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.metadata/version.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.settings/org.scala-ide.sdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.worksheet/.worksheet.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.worksheet/src/recfun.Lazy.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/.worksheet/src/recfun.test.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/bin/META-INF/progfun-recfun.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/bundles/com.typesafe.akka/akka-testkit_2.10/akka-testkit_2.10-2.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/bundles/com.typesafe/config/config-1.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/bundles/io.netty/netty/netty-3.6.3.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/bundles/org.scala-lang.modules/scala-async_2.10/scala-async_2.10-0.9.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/com.google.code.gson/gson/gson-2.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/com.netflix.rxjava/rxjava-core/rxjava-core-0.15.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/com.netflix.rxjava/rxjava-scala/rxjava-scala-0.15.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/com.ning/async-http-client/async-http-client-1.7.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/com.squareup.retrofit/retrofit/retrofit-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/com.thoughtworks.paranamer/paranamer/paranamer-2.5.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/com.typesafe.akka/akka-actor_2.10/akka-actor_2.10-2.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/junit/junit/junit-4.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/net.databinder.dispatch/dispatch-core_2.10/dispatch-core_2.10-0.11.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.hamcrest/hamcrest-core/hamcrest-core-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.json4s/json4s-ast_2.10/json4s-ast_2.10-3.2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.json4s/json4s-core_2.10/json4s-core_2.10-3.2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.json4s/json4s-native_2.10/json4s-native_2.10-3.2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.mockito/mockito-all/mockito-all-1.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.scala-lang/scala-swing/scala-swing-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.scala-lang/scalap/scalap-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.scala-tools.testing/test-interface/test-interface-0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.scalatest/scalatest_2.10/scalatest_2.10-1.9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.slf4j/slf4j-api/slf4j-api-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/lib_managed/jars/org.slf4j/slf4j-simple/slf4j-simple-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/practico1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/progfun-recfun.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/CourseraHttp.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/GradingFeedback.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/ProgFunBuild.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/RecordingLogger.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/RichJsValue.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/ScalaTestRunner.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/Settings.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/StyleChecker.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/project/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/buildSettings.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/buildPlugins.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/default/default-82b042/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/default/default-82b042/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/default/recfun-build-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/default/recfun-build-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-default-82b042-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/default-recfun-build-build-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/scala-2.9.2/sbt-0.12/cache/default-82b042/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/scala-2.9.2/sbt-0.12/cache/default-82b042/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/scala-2.9.2/sbt-0.12/cache/default-82b042/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/$global/$global/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/$global/ivyConfiguration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/$global/ivySbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/$global/projectDescriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/$global/update/$global/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/$global/update/$global/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/compile/$global/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/dependencyClasspath/$global/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/externalDependencyClasspath/$global/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/internalDependencyClasspath/$global/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/managedClasspath/$global/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/unmanagedClasspath/$global/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/compile/unmanagedJars/$global/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/runtime/externalDependencyClasspath/$global/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/runtime/managedClasspath/$global/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/runtime/unmanagedClasspath/$global/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/project/target/streams/runtime/unmanagedJars/$global/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/scalastyle_config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/scalastyle_config_reactive.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/default/default-9b3689/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/default/default-9b3689/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/default-default-9b3689-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/scala-2.9.2/sbt-0.12/cache/default-9b3689/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/scala-2.9.2/sbt-0.12/cache/default-9b3689/compile/inc_compile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/scala-2.9.2/sbt-0.12/cache/default-9b3689/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/scala-2.9.2/sbt-0.12/cache/default-9b3689/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/src/main/main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/src/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/src/main/scala/recfun/Recursividad.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/src/main/scala/recfun/Recursividad.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.10/cache/assignment/compile/for_packageSubmission/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.10/cache/assignment/compile/inc_compile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.10/cache/assignment/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.10/cache/assignment/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.10/progfun-recfun_2.10-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/submit/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/compile/packageSubmission/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_11_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/funsets_4961-build.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/funsets_4961.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/default/recfun$sources/1.0.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/scala-2.11/resolution-cache/reports/default-recfun$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase1/recfun/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/funsets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/funsets.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.worksheet/src/utils.otro.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.worksheet/src/utils.prueba.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/META-INF/progfun-funsets.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/junit/junit/junit-4.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.hamcrest/hamcrest-core/hamcrest-core-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-swing/scala-swing-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-xml/scala-xml-2.11.0-M4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scalap/scalap-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.scala-tools.testing/test-interface/test-interface-0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.scalatest/scalatest_2.10/scalatest_2.10-1.9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.scalatest/scalatest_2.11/scalatest_2.11-3.0.0-SNAP4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.slf4j/slf4j-api/slf4j-api-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_managed/jars/org.slf4j/slf4j-simple/slf4j-simple-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progfun-funsets.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/CourseraHttp.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/GradingFeedback.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/ProgFunBuild.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/RecordingLogger.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/RichJsValue.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/ScalaTestRunner.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/Settings.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/StyleChecker.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/buildSettings.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/buildPlugins.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/default/default-273131/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/default/default-273131/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/default-default-273131-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/scalastyle_config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/scalastyle_config_reactive.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/default-743749/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/default-743749/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-default-743749-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/compile/inc_compile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/.settings/org.scala-ide.sdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/.worksheet/src/utils.ProbarFraccion.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/.worksheet/src/utils.otro.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/.worksheet/src/utils.prueba.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase3/inmutable/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/junit/junit/junit-4.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.hamcrest/hamcrest-core/hamcrest-core-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.scala-lang/scala-swing/scala-swing-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.scala-lang/scala-xml/scala-xml-2.11.0-M4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.scala-lang/scalap/scalap-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.scala-tools.testing/test-interface/test-interface-0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.scalatest/scalatest_2.10/scalatest_2.10-1.9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.scalatest/scalatest_2.11/scalatest_2.11-3.0.0-SNAP4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.slf4j/slf4j-api/slf4j-api-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/lib_managed/jars/org.slf4j/slf4j-simple/slf4j-simple-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/CourseraHttp.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/GradingFeedback.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/ProgFunBuild.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/RecordingLogger.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/RichJsValue.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/ScalaTestRunner.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/Settings.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/StyleChecker.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/buildSettings.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/buildPlugins.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/default/default-273131/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/default/default-273131/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/default-default-273131-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/scalastyle_config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/scalastyle_config_reactive.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/default/default-743749/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/default/default-743749/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/default-default-743749-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/compile/inc_compile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase3/inmutable/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.idea/modules/classcase_1082-build.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.idea/modules/classcase_1082.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.idea/scala_compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.settings/org.scala-ide.sdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.worksheet/src/utils.Arbol.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.worksheet/src/utils.ArbolBinario.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.worksheet/src/utils.ArbolBinarioWS.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.worksheet/src/utils.ProbarFraccion.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.worksheet/src/utils.chinese.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.worksheet/src/utils.otro.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/.worksheet/src/utils.prueba.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase4/classCase/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/junit/junit/junit-4.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.hamcrest/hamcrest-core/hamcrest-core-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.scala-lang/scala-swing/scala-swing-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.scala-lang/scala-xml/scala-xml-2.11.0-M4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.scala-lang/scalap/scalap-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.scala-tools.testing/test-interface/test-interface-0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.scalatest/scalatest_2.10/scalatest_2.10-1.9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.scalatest/scalatest_2.11/scalatest_2.11-3.0.0-SNAP4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.slf4j/slf4j-api/slf4j-api-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/lib_managed/jars/org.slf4j/slf4j-simple/slf4j-simple-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/progfun-class-case.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/CourseraHttp.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/GradingFeedback.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/ProgFunBuild.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/RecordingLogger.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/RichJsValue.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/ScalaTestRunner.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/Settings.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/StyleChecker.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/buildSettings.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/buildPlugins.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/default/default-273131/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/default/default-273131/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/default-default-273131-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/scalastyle_config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/scalastyle_config_reactive.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/default/default-743749/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/default/default-743749/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/default-default-743749-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/compile/inc_compile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/.history" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/progfun-funsets/progfun-funsets_2.10/1.0.0/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/progfun-funsets/progfun-funsets_2.10/1.0.0/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/scala-2.10/cache/assignment/compile/for_packageSubmission/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/scala-2.10/cache/assignment/compile/for_packageSubmission/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/scala-2.10/cache/assignment/compile/inc_compile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/scala-2.10/cache/assignment/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/scala-2.10/cache/assignment/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/scala-2.10/classes/utils/Arbol.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/scala-2.10/classes/utils/ArbolBinarioWS.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/scala-2.10/classes/utils/chinese.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/scala-2.10/classes/utils/otro.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/scala-2.10/progfun-funsets_2.10-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/streams/$global/submit/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase4/classCase/target/streams/compile/packageSubmission/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.idea/lazyEvaluation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.idea/libraries/scala_sdk_2_11_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.idea/modules/lazyevaluation_5705-build.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.idea/modules/lazyevaluation_5705.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.idea/scala_compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.settings/org.scala-ide.sdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.worksheet/src/utils.ProbarFraccion.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.worksheet/src/utils.chinese.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.worksheet/src/utils.otro.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.worksheet/src/utils.prueba.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/.worksheet/src/utils.worksheet.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase5/lazyEvaluation/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/junit/junit/junit-4.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.hamcrest/hamcrest-core/hamcrest-core-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.scala-lang/scala-swing/scala-swing-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.scala-lang/scala-xml/scala-xml-2.11.0-M4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.scala-lang/scalap/scalap-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.scala-tools.testing/test-interface/test-interface-0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.scalatest/scalatest_2.10/scalatest_2.10-1.9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.scalatest/scalatest_2.11/scalatest_2.11-3.0.0-SNAP4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.slf4j/slf4j-api/slf4j-api-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/lib_managed/jars/org.slf4j/slf4j-simple/slf4j-simple-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/progfun-lazy-Evaluation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/CourseraHttp.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/GradingFeedback.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/ProgFunBuild.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/RecordingLogger.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/RichJsValue.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/ScalaTestRunner.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/Settings.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/StyleChecker.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/buildSettings.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/buildPlugins.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/default/default-273131/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/default/default-273131/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/default-default-273131-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/scalastyle_config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/scalastyle_config_reactive.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/default/default-743749/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/default/default-743749/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/default-default-743749-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/compile/inc_compile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/.history" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/progfun-funsets/progfun-funsets_2.10/1.0.0/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/progfun-funsets/progfun-funsets_2.10/1.0.0/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/resolution-cache/reports/progfun-funsets-progfun-funsets_2.10-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/scala-2.10/cache/assignment/compile/for_packageSubmission/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/scala-2.10/cache/assignment/compile/for_packageSubmission/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/scala-2.10/cache/assignment/compile/inc_compile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/scala-2.10/cache/assignment/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/scala-2.10/cache/assignment/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/scala-2.10/classes/utils/chinese.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/scala-2.10/classes/utils/otro.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/scala-2.10/classes/utils/prueba.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/scala-2.10/classes/utils/worksheet.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/scala-2.10/progfun-funsets_2.10-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/streams/$global/submit/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase5/lazyEvaluation/target/streams/compile/packageSubmission/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.idea/libraries/scala_sdk_2_11_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.idea/modules/funsets_4961-build.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.idea/modules/funsets_4961.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.idea/scala_compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.worksheet/src/utils.otro.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/.worksheet/src/utils.prueba.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../clase6/folds/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/junit/junit/junit-4.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.hamcrest/hamcrest-core/hamcrest-core-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.scala-lang/scala-actors/scala-actors-2.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.scala-lang/scala-swing/scala-swing-2.10.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.scala-lang/scala-xml/scala-xml-2.11.0-M4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.scala-lang/scalap/scalap-2.10.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.scala-tools.testing/test-interface/test-interface-0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.scalacheck/scalacheck_2.10/scalacheck_2.10-1.10.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.scalatest/scalatest_2.10/scalatest_2.10-1.9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.scalatest/scalatest_2.11/scalatest_2.11-3.0.0-SNAP4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.slf4j/slf4j-api/slf4j-api-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/lib_managed/jars/org.slf4j/slf4j-simple/slf4j-simple-1.7.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/progfun-funsets.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/CourseraHttp.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/GradingFeedback.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/ProgFunBuild.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/RecordingLogger.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/RichJsValue.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/ScalaTestRunner.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/Settings.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/StyleChecker.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/buildSettings.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/buildPlugins.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/default/default-273131/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/default/default-273131/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/default-default-273131-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/scala-2.9.2/sbt-0.12/cache/default-273131/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/scalastyle_config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/scalastyle_config_reactive.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/default/default-743749/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/default/default-743749/scala_2.9.2/sbt_0.12/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-docs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-sources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/default-default-743749-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/compile/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/compile/inc_compile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/global/update/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/scala-2.9.2/sbt-0.12/cache/default-743749/global/update/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/streams/$global/compilers/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/streams/$global/ivy-configuration/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/streams/$global/ivy-sbt/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/streams/$global/project-descriptors/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/streams/$global/update/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/streams/compile/$global/$global/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/streams/compile/compile-inputs/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/streams/compile/compile/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/streams/compile/copy-resources/$global/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../clase6/folds/project/target/streams/compile/defined-sbt-plugins/$global/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$29a864484de784d663e7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$29f763a911caa8189109.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$56310f3d44ddc2e53f30.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$79e83253132449719427.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$90e74e1e87ac275bdcab.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a05e44381c592a8cfbd8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d3afd2e7ee8ef4ed5313.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dbb0c7628a893cb2312d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc8eb4e0e3c69b87fa82.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/funsets$sources/1.0.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/funsets$sources/1.0.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/funsets$sources/1.0.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/funsets$sources/1.0.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-funsets$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -894,11 +89,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../funhx/funsets" />
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
   </component>
@@ -906,18 +102,11 @@
     <configuration name="ListIntUtilsSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="funsets" />
       <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
+      <option name="selectedOptions">
+        <set />
       </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
+      <option name="testKind" value="Class" />
       <option name="testClassPath" value="utils.ListIntUtilsSuite" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -929,46 +118,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="availableProjects">
-      <map>
-        <entry>
-          <key>
-            <ExternalProjectPojo>
-              <option name="name" value="funsets" />
-              <option name="path" value="$PROJECT_DIR$" />
-            </ExternalProjectPojo>
-          </key>
-          <value>
-            <list>
-              <ExternalProjectPojo>
-                <option name="name" value="funsets [file:/home/emanuel/Facultad/progfun/2019/git/Prog4UAP/clase2/funsets/]" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value="funsets-build" />
-                <option name="path" value="$PROJECT_DIR$/project" />
-              </ExternalProjectPojo>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$" value="3170147627779" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="963734495" />
-        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../clase1/recfun" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../clase3/inmutable" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../git_prueba/Prog4UAP/clase2/funsets" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -983,25 +133,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1324" height="173" key="GridCell.Tab.0.bottom" timestamp="1585074085558">
+    <state x="466" y="124" width="424" height="483" key="FileChooserDialogImpl" timestamp="1599623030156">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1324" height="173" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1585074085558" />
-    <state width="1324" height="173" key="GridCell.Tab.0.center" timestamp="1585074085557">
-      <screen x="0" y="0" width="1366" height="732" />
-    </state>
-    <state width="1324" height="173" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1585074085557" />
-    <state width="1324" height="173" key="GridCell.Tab.0.left" timestamp="1585074085557">
-      <screen x="0" y="0" width="1366" height="732" />
-    </state>
-    <state width="1324" height="173" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1585074085557" />
-    <state width="1324" height="173" key="GridCell.Tab.0.right" timestamp="1585074085557">
-      <screen x="0" y="0" width="1366" height="732" />
-    </state>
-    <state width="1324" height="173" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1585074085557" />
-    <state x="349" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1585074140785">
-      <screen x="0" y="0" width="1366" height="732" />
-    </state>
-    <state x="349" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1585074140785" />
+    <state x="466" y="124" width="424" height="483" key="FileChooserDialogImpl/0.0.1366.732@0.0.1366.732" timestamp="1599623030156" />
   </component>
 </project>

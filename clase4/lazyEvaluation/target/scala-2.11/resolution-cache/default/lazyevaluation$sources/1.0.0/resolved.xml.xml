@@ -4,7 +4,7 @@
 		module="lazyevaluation$sources"
 		revision="1.0.0"
 		status="integration"
-		publication="20200515192253"
+		publication="20200916193721"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

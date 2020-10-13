@@ -20,7 +20,10 @@ object MyStream {
     
   }
   
-  def isEmpty(l: AbstractLazyList) : Boolean = ???
+  def isEmpty(l: AbstractLazyList) : Boolean = l match {
+    case EmptyLazyList() => true
+    case _ => false
+  }
   
   def size(l: AbstractLazyList) : Int = ???
   
@@ -37,7 +40,7 @@ object MyStream {
 
   
   /** crea una lista desde un rango
-   *  range(0, 10, 2) List(0, 1 2, 3, 4, 5 , 6,7, 8, 9)
+   *  range(0, 10, 2) List(0, 2, 4, 6, 8)
    * */
   def range(start: Int, end: Int, step: Int): AbstractLazyList = ???
 

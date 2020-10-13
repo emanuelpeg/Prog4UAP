@@ -4,7 +4,7 @@
 		module="inmutable$sources"
 		revision="1.0.0"
 		status="integration"
-		publication="20200324152305"
+		publication="20201012231902"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

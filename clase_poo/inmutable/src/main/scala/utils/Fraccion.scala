@@ -23,7 +23,7 @@ class Fraccion(val numerador:Int, val denominador:Int) {
    */
   def mcd () : Int = ???
   
-  def simplificar () : Fraccion = ???
+  def simplificar () : Fraccion = new Fraccion(this.numerador/ this.mcd(), this.denominador/this.mcd());
   
   /*
    * 
@@ -52,5 +52,5 @@ class Fraccion(val numerador:Int, val denominador:Int) {
   
   def unary_- : Fraccion = ???
   
-  override def toString() : String = ??? 
+  override def toString() : String = this.numerador + "/" + this.denominador
 }

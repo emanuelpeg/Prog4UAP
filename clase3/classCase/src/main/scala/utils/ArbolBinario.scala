@@ -46,29 +46,33 @@ object ArbolBinario {
    * Inserta un elemento
    */
   def insert(nro: Int, tree: Tree): Tree = tree match {
-    case EmptyTree() => new Node(nro, new EmptyTree(), new EmptyTree())
-    case Node(nro2, left, rigth) => if (nro == nro2)  new Node(nro2, left, rigth)
-    else if (nro > nro2) new Node(nro2, left, insert(nro,rigth))
-    else new Node(nro2, insert(nro,left), rigth)
+    case EmptyTree() => Node(nro, EmptyTree(), EmptyTree())
+    case Node(nro2,left,rigth) => if (nro < nro2) Node(nro2, insert(nro,left), rigth)
+    else Node(nro2,left, insert(nro, rigth))
   }
 
   /**
    * Devuelve verdadero si el elemento esta en el arbol.
    */
-  def elem(nro: Int, tree: Tree): Boolean = ???
+  def elem(nro: Int, tree: Tree): Boolean = tree match {
+    case EmptyTree() => false
+    case Node(nro2, left, rigth) => if (nro == nro2) true
+    else if (nro < nro2) elem(nro, left) else elem(nro,rigth)
+  }
 
-  /**
+      /**
    * Devuelve la cantidad de nodos del arbol
    */
-  def countNodes(tree: Tree): Int = ???
+  def countNodes(tree: Tree): Int = tree match {
+    case EmptyTree() => 0
+    case Node(_, left, rigth) => countNodes(left) + countNodes(rigth) + 1
+  }
 
   /**
    * Devuelve un arbol donde se aplico esta funcion
+   * apply(miArbol, (a) => a * 2)
    */
-  def apply(tree: Tree, fx: (Int) => Int): Tree = tree match {
-    case EmptyTree() => EmptyTree()
-    case Node(nro, left, rigth) => Node(fx(nro), apply(left,fx), apply(rigth,fx))
-  }
+  def apply(tree: Tree, fx: (Int) => Int): Tree = ???
   /**
    * Devuelve un arbol con el doble de los elementos
    */
@@ -83,8 +87,6 @@ object ArbolBinario {
     * Retorna el nivel del arbol
     */
   def nivel(ts : Tree) : Int = ???
-  
-
 
   /**
     * Balancea el arbol si no esta balanceado

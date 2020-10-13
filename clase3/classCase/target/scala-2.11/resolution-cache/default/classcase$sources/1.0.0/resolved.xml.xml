@@ -4,7 +4,7 @@
 		module="classcase$sources"
 		revision="1.0.0"
 		status="integration"
-		publication="20200508190436"
+		publication="20200909183804"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

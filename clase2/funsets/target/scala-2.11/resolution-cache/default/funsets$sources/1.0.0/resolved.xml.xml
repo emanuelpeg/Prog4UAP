@@ -4,7 +4,7 @@
 		module="funsets$sources"
 		revision="1.0.0"
 		status="integration"
-		publication="20200324152014"
+		publication="20200830235715"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

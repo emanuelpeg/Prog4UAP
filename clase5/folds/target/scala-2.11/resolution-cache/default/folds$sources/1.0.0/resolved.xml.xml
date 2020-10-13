@@ -4,7 +4,7 @@
 		module="folds$sources"
 		revision="1.0.0"
 		status="integration"
-		publication="20200522191045"
+		publication="20200923184824"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
