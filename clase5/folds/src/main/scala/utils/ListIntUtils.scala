@@ -10,12 +10,12 @@ object ListIntUtils {
   /**
     * Realice la función Map
     */
-  def map[T,M](lista: List[T], fx: T => M): List[M] = lista.map(fx)
+  def map[T,M](lista: List[T], fx: T => M): List[M] = ???
 
   /**
     * Realice la función reduce
     */
-  def reduce[T](lista: List[T], acu : T, fx: (T, T) => T) : T = lista.foldRight(acu)(fx)
+  def reduce[T](lista: List[T], acu : T, fx: (T, T) => T) : T = ???
   
   /*
    * Busca la mediana
@@ -25,24 +25,21 @@ object ListIntUtils {
   def mediana(lista: List[Int]) : Int = ???
 
   // filtra la lista de valores mayores que el valor e pasado por parametro
-  def maximos(lista: List[Int],e: Int) : List[Int]= lista.filter(_>=e)
+  def maximos(lista: List[Int],e: Int) : List[Int]= ???
 
   // filtra la lista de valores menores que el valor e pasado por parametro
-  def minimos(lista: List[Int],e: Int) : List[Int]= lista.filter(_<e)
+  def minimos(lista: List[Int],e: Int) : List[Int]= ???
 
   // Ordena los valores de una lista utilizando quicksort
-  def QuickSort(xs: List[Int]) : List[Int]= xs match {
-    case Nil => Nil
-    case head :: tail => QuickSort(minimos(tail, head)) ++ (head :: QuickSort(maximos(tail, head)))
-  }
+  def QuickSort(xs: List[Int]) : List[Int]= ???
 
   /**
    * Cuenta los elementos
    */
-  def contar(lista: List[Int]) : Int = lista.reduce((a : Int, _) => a + 1)
+  def contar(lista: List[Int]) : Int = ???
 
   // Acumula los elementos
-  def acc(lista: List[Int]) : Int = lista.reduce((a : Int, b: Int) => a + b)
+  def acc(lista: List[Int]) : Int = ???
   
       
   /**

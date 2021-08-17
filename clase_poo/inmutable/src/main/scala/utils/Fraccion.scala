@@ -23,7 +23,7 @@ class Fraccion(val numerador:Int, val denominador:Int) {
    */
   def mcd () : Int = ???
   
-  def simplificar () : Fraccion = new Fraccion(this.numerador/ this.mcd(), this.denominador/this.mcd());
+  def simplificar () : Fraccion = ???
   
   /*
    * 

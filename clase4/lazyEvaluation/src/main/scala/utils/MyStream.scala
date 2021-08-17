@@ -20,10 +20,7 @@ object MyStream {
     
   }
   
-  def isEmpty(l: AbstractLazyList) : Boolean = l match {
-    case EmptyLazyList() => true
-    case _ => false
-  }
+  def isEmpty(l: AbstractLazyList) : Boolean = ???
   
   def size(l: AbstractLazyList) : Int = ???
   

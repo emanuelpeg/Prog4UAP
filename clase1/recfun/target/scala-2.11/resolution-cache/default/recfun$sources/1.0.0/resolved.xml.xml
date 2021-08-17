@@ -4,7 +4,7 @@
 		module="recfun$sources"
 		revision="1.0.0"
 		status="integration"
-		publication="20200824014656"
+		publication="20210816230911"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

@@ -45,28 +45,17 @@ object ArbolBinario {
   /*
    * Inserta un elemento
    */
-  def insert(nro: Int, tree: Tree): Tree = tree match {
-    case EmptyTree() => Node(nro, EmptyTree(), EmptyTree())
-    case Node(nro2,left,rigth) => if (nro < nro2) Node(nro2, insert(nro,left), rigth)
-    else Node(nro2,left, insert(nro, rigth))
-  }
+  def insert(nro: Int, tree: Tree): Tree = ???
 
   /**
    * Devuelve verdadero si el elemento esta en el arbol.
    */
-  def elem(nro: Int, tree: Tree): Boolean = tree match {
-    case EmptyTree() => false
-    case Node(nro2, left, rigth) => if (nro == nro2) true
-    else if (nro < nro2) elem(nro, left) else elem(nro,rigth)
-  }
+  def elem(nro: Int, tree: Tree): Boolean = ???
 
       /**
    * Devuelve la cantidad de nodos del arbol
    */
-  def countNodes(tree: Tree): Int = tree match {
-    case EmptyTree() => 0
-    case Node(_, left, rigth) => countNodes(left) + countNodes(rigth) + 1
-  }
+  def countNodes(tree: Tree): Int = ??
 
   /**
    * Devuelve un arbol donde se aplico esta funcion
@@ -76,7 +65,7 @@ object ArbolBinario {
   /**
    * Devuelve un arbol con el doble de los elementos
    */
-  def double(tree: Tree): Tree = apply(tree, (nro) => nro * 2)
+  def double(tree: Tree): Tree = ???
   
   /**
    * Devuelve una lista ordenada
